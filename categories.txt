@@ -1,0 +1,5 @@
+"{\"name\": \"Mouse\"}"
+"{\"name\": \"Keyboard\"}"
+"{\"name\": \"Speaker\"}"
+"{\"name\": \"Amplifier\"}"
+"{\"name\": \"Microphone\"}"

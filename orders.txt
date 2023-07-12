@@ -1,0 +1,2 @@
+"{\"product\": {\"name\": \"Naga\", \"price\": 400, \"brand\": \"Razer\", \"category\": {\"name\": \"Mouse\"}}, \"quantity\": 5, \"address\": \"Ceva\"}"
+"{\"product\": {\"name\": \"G187\", \"price\": 800, \"brand\": \"Logitech\", \"category\": {\"name\": \"Keyboard\"}}, \"quantity\": 4, \"address\": \"Timisoara\"}"

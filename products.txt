@@ -1,0 +1,5 @@
+"{\"name\": \"Naga\", \"price\": 400, \"brand\": \"Razer\", \"category\": {\"name\": \"Mouse\"}}"
+"{\"name\": \"G187\", \"price\": 800, \"brand\": \"Logitech\", \"category\": {\"name\": \"Keyboard\"}}"
+"{\"name\": \"SuperBass\", \"price\": 1600, \"brand\": \"Yamaha\", \"category\": {\"name\": \"Speaker\"}}"
+"{\"name\": \"F200\", \"price\": 4500, \"brand\": \"Marshall\", \"category\": {\"name\": \"Amplifier\"}}"
+"{\"name\": \"go\", \"price\": 500, \"brand\": \"JBL\", \"category\": {\"name\": \"Speaker\"}, \"impedance\": 12, \"power\": 65}"
